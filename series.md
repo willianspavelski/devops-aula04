@@ -1,3 +1,3 @@
-1 - Chernobyl
-2 - Band of Brothers
-3 - Game of Thrones
+1 - Chernobyl </br>
+2 - Band of Brothers </br>
+3 - Game of Thrones </br>
